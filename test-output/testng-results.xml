@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16168" started-at="2022-12-12T04:10:31Z" finished-at="2022-12-12T04:10:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16168" started-at="2022-12-12T04:10:31Z" finished-at="2022-12-12T04:10:47Z">
+      <class name="test.AddCategoryTest">
+        <test-method status="PASS" signature="validateAddCategoryTest()[pri:0, instance:test.AddCategoryTest@58651fd0]" name="validateAddCategoryTest" duration-ms="5783" started-at="2022-12-11T22:10:31Z" finished-at="2022-12-11T22:10:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddCategoryTest -->
+        <test-method status="PASS" signature="validateDropDownTest()[pri:0, instance:test.AddCategoryTest@58651fd0]" name="validateDropDownTest" duration-ms="3708" started-at="2022-12-11T22:10:37Z" finished-at="2022-12-11T22:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDropDownTest -->
+        <test-method status="PASS" signature="validateDuplicateDataTest()[pri:0, instance:test.AddCategoryTest@58651fd0]" name="validateDuplicateDataTest" duration-ms="6645" started-at="2022-12-11T22:10:41Z" finished-at="2022-12-11T22:10:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDuplicateDataTest -->
+      </class> <!-- test.AddCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
